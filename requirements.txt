@@ -1,0 +1,9 @@
+SpeechRecognition
+gTTS
+playsound==1.2.2
+speechmatics
+httpx
+asyncio
+streamlit
+numpy
+pyaudio
